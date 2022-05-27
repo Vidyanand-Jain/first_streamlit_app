@@ -1,6 +1,6 @@
 import streamlit
 streamlit.title('My Parents New Healthy Dinerr')
-streamlit.title('Breakfast Menu')
-streamlit.title('Avalakki')
-streamlit.title('Uppittu')
+streamlit.header('Breakfast Menu')
+streamlit.text('Avalakki')
+streamlit.text('Uppittu')
 
